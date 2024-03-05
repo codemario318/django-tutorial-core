@@ -30,6 +30,7 @@ dedent_closing_brackets = true
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^3.6.2"
+colorlog = "^6.8.2"
 
 [build-system]
 requires = ["poetry-core"]
